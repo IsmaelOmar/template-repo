@@ -1,0 +1,16 @@
+site_name: Project Name
+theme: readthedocs
+use_directory_urls: false
+nav:
+  - Home: index.md
+  - Prerequisites: prerequisites.md
+  - Installation: installation.md
+  - Configuration: configuration.md
+  - Usage: usage.md
+  - Build: build.md
+  - Test: test.md
+  - Deploy: deploy.md
+  - "Release Process": release_process.md
+  - "Backup And Restore": backup_and_restore.md
+  - "Known Issues": known_issues.md
+
